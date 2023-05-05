@@ -35,6 +35,14 @@ body{
      height: 200vh;
 }
 
+.wrapper{
+    padding-top: 8.25rem;
+    padding-bottom: 8.25rem;
+}
+.text content{
+    width: 70%;
+    margin: auto;
+}
 @media only screen and (max-width: 767px){
     .navbar-nav{
         text-align: center;
