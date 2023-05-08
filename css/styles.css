@@ -69,6 +69,12 @@ img{
     padding-bottom: 1rem;
     border-bottom:0.0625rem solid #eee;
 }
+
+.folklore{
+    font-family: bennet-banner-condensed, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
 @media only screen and (max-width: 767px){
     .navbar-nav{
         text-align: center;
